@@ -12,7 +12,9 @@ Replace /storage/sia with your local storage directory
 -p 9981:9981 \
 -p 9982:9982 \
 -v /storage/sia:/mnt/sia \
-nathanthegr8/sia-docker```
+nathanthegr8/sia-docker
+```
 
 Then 
-```sudo docker start sia```
+```sudo docker start sia
+```
