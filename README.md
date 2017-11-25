@@ -1,8 +1,9 @@
 # sia-docker
-Taken from https://mtlynch.io/sia-via-docker/
+Docker file taken from https://mtlynch.io/sia-via-docker/
 
 ## To Use
 Replace "Server Local IP" with your server's lan ip. Note delete the quotes
+
 Replace /storage/sia with your local storage directory
 
 ```sudo docker create \
