@@ -6,7 +6,8 @@ Replace "Server Local IP" with your server's lan ip. Note delete the quotes
 
 Replace /storage/sia with your local storage directory
 
-```sudo docker create \
+```
+sudo docker create \
 --name=sia \
 --restart=always \
 -p "Server Local IP":9985:8000 \
