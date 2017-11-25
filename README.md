@@ -16,5 +16,6 @@ nathanthegr8/sia-docker
 ```
 
 Then 
-```sudo docker start sia
+```
+sudo docker start sia
 ```
